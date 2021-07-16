@@ -20,7 +20,7 @@ body{
   resize: none;
   width: 300px;
   height: 100px;
-  background: rgba(153, 93, 202, 0.507);
+  background: rgba(178, 126, 221, 0.507);
   border: transparent;
   outline: none;
   box-shadow: 5px 5px 20px 0px rgba(0, 0, 0, 0.575);
@@ -33,7 +33,7 @@ body{
   resize: none;
   width: 300px;
   height: 100px;
-  background: rgba(178, 202, 93, 0.507);
+  background: rgba(140, 93, 202, 0.507);
   border: transparent;
   outline: none;
   box-shadow: 5px 5px 20px 0px rgba(0, 0, 0, 0.575);

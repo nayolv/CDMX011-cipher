@@ -27,7 +27,7 @@ const cipher = {
       throw TypeError('Valores incorrectos');
     }
   
-        return mensaje
+        return mensaje;
   
     },
   
