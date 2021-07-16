@@ -12,7 +12,7 @@ btn1.addEventListener("click", function(){
 
     document.getElementById('mensaje2').value = mensaje;
 
-})
+});
 
 const btn2 =document.getElementById("boton2");
 btn2.addEventListener("click",function(){
@@ -22,5 +22,5 @@ btn2.addEventListener("click",function(){
     let mensaje  = cipher.decode(offset, string);
     document.getElementById('mensaje2').value = mensaje;
 
-} )
+} );
  
