@@ -18,9 +18,9 @@ body{
   font-family: 'Courier Prime', monospace;
   font-size: 25px;
   resize: none;
-  width: 300px;
+  width: 310px;
   height: 100px;
-  background: rgba(153, 93, 202, 0.507);
+  background: rgba(178, 126, 221, 0.507);
   border: transparent;
   outline: none;
   box-shadow: 5px 5px 20px 0px rgba(0, 0, 0, 0.575);
@@ -31,9 +31,9 @@ body{
   font-family: 'Overlock SC', cursive;
   font-size: 25px;
   resize: none;
-  width: 300px;
+  width: 310px;
   height: 100px;
-  background: rgba(153, 93, 202, 0.507);
+  background: rgba(140, 93, 202, 0.507);
   border: transparent;
   outline: none;
   box-shadow: 5px 5px 20px 0px rgba(0, 0, 0, 0.575);

@@ -19,7 +19,7 @@ const cipher = {
           formula = 32
             //Aplica la formula y sustituye el string vacio
       }else{
-        throw TypeError(alert('Caracter invalido'))
+        throw TypeError(alert('Caracter invalido'));
       }
     mensaje += String.fromCharCode(formula);
     } 
@@ -27,7 +27,7 @@ const cipher = {
       throw TypeError('Valores incorrectos');
     }
   
-        return mensaje
+        return mensaje;
   
     },
   
@@ -48,7 +48,7 @@ const cipher = {
         } else if(codigo === 32) {
           formula = 32
         }else{
-          throw TypeError(alert('Caracter invalido'))
+          throw TypeError(alert('Caracter invalido'));
         }
       
     mensaje +=String.fromCharCode(formula);
